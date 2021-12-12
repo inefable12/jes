@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Trojan horse effect](https://www.researchgate.net/project/Trojan-Horse-Effect)
 
-- 🌱 I’m currently learning **coarse grained - martini**
+- 🌱 I’m currently learning **Molecular dynamics simulations of the Gibbs free energy**
 
 - 👯 I’m looking to collaborate on **Drug discovery using molecular docking, quantum mechanics calculations, molecular dynamics simulations and machine learning**
 
